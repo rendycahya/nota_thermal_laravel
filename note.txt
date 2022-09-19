@@ -1,0 +1,59 @@
+tambahkan
+- sesuaikan tipe data di tabel (done).
+allNota
+    - filter transaksi (tgl awal - tgl akhir, nama pembeli ) (Done)
+    - awal masuk 10 data (Done).
+    - load more +10 (Done).
+
+Transaction
+- Metod Pembayaran 
+    - cash or transfer (Done).
+    if (cash)
+        No action (Done).
+    if (transfer)
+        input file (Butki Pembayaran) (Done).
+- Jenis Transaksi
+    - Pengeluaran or pemasukan (Done).
+
+Dashboard
+- filter : tgl (Done).
+- Transaksi Pemasukan (total, banyak) (Done).
+- Transaksi Pengeluaran (total, banyak) (Done).
+
+Barang
+- tabel barang, ada stok dan foto (Done).
+- Menu Barang : crud , filter ( cari ), load more (Done).
+
+
+Refisi
+
+Tambah NProgress for progress sistem.
+
+Barang
+    - Tambah Harga barang (Done).
+    - Categori barang (Done).
+    - Deskripsi barang (Done).
+Filter Barang
+    - Tambah Kategori Barang (Done).
+
+Filter Nota Transaction
+    - Tambah Jenis Transaction (Done).
+
+Tambah Transaction 
+    - ganti 'Oke?' ke mode onblur (Done).
+
+
+
+
+
+Barang 
+- Stock berkurang Sesuai dengan transaksi baru 
+
+Pembuatan nota 
+- Tambah barang pop up modal :  cari barang 
+                                > Pilih barang 
+                                > Isi banyak 
+                                > Isi deskripsi ( Boleh Kosong ) (*Tidak perlu)
+                                > Oke
+
+Update Controller ( Barang Controller ) to website.

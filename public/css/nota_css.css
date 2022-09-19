@@ -1,0 +1,145 @@
+.fontBody {
+    font-family: Monospace;
+    display: contents;
+}
+
+.conta {
+    margin: auto;
+    width: 160px;
+}
+
+.headerKode {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.alamat {
+    text-align: center;
+    font-size: 7px;
+    line-height: 7px;
+}
+
+.notelp {
+    text-align: center;
+    font-size: 7px;
+    margin-bottom: 5px;
+    line-height: 7px;
+}
+
+.border {
+    border-top-style: double;
+    margin-top: 0px;
+    margin-bottom: 7px;
+}
+
+.admin {
+    text-align: left;
+    font-size: 9px;
+    margin-bottom: 0px;
+    line-height: 9px;
+}
+
+.tanggal {
+    text-align: left;
+    font-size: 9px;
+    margin-bottom: 0px;
+    margin-bottom: 5px;
+}
+
+.table {
+    display: contents;
+}
+
+.barang {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: left;
+    font-size: 9px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 9px;
+    text-align: justify;
+}
+
+.harga {
+    width: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 9px;
+    padding-top: 0px;
+    padding-bottom: 3px;
+    text-align: justify;
+    line-height: 9px;
+}
+
+.banyak_barang {
+    width: 20px;
+    font-size: 9px;
+    padding-top: 0px;
+    padding-bottom: 3px;
+    text-align: justify;
+}
+
+.total_harga {
+    width: 90px;
+    text-align: right;
+    font-size: 9px;
+    padding-bottom: 3px;
+    text-align: justify;
+}
+
+.footer {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: right;
+    font-size: 9px;
+    padding-bottom: 0px;
+    line-height: 9px;
+}
+
+.inFooter {
+    line-height: 9px;
+    font-size: 9px;
+    padding-bottom: 0px;
+}
+
+.pembeli {
+    line-height: 9px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: right;
+    font-size: 9px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    vertical-align: baseline;
+}
+
+.inPembeli {
+    line-height: 9px;
+    font-size: 9px;
+    padding-top: 0px;
+}
+
+.footerBorder {
+    width: 160px;
+    border-bottom-style: dotted;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.qr {
+    height: 90px;
+    margin-bottom: 6px;
+}
+
+.lastFooter {
+    line-height: 9px;
+    font-size: 9px;
+    text-align: center;
+    margin-left: 50px;
+}

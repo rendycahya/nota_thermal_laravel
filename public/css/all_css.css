@@ -1,0 +1,39 @@
+.center{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.centerUpCase{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.alignMiddle{
+    vertical-align: middle;
+}
+
+.rightBold{
+    text-align: right; 
+    font-weight: bold;
+}
+
+#floatLeft{
+    float: left;
+}
+
+#floatRight{
+    float: right;
+}
+
+.btn.dropdown-toggle.btn-light{
+    border: 1px solid #ced4da;
+    background-color: white;
+    margin-top: 6px;
+}
+
+#cari_nama_barang:placeholder-shown {
+    font-style: italic;
+}
